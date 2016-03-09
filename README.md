@@ -10,3 +10,6 @@ title to [node:field_edudu_github_user_or_org]
 
 This code relies on https://github.com/KnpLabs/php-github-api.
 
+
+
+[![Join the chat at https://gitter.im/emmairwin/edudu](https://badges.gitter.im/emmairwin/edudu.svg)](https://gitter.im/emmairwin/edudu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
